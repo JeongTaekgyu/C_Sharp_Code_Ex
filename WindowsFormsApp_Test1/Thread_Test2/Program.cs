@@ -12,6 +12,7 @@ namespace Thread_Test2
         static void Main(string[] args)
         {
             Console.WriteLine("입력한 숫자까지의 소수 개수 출력 (종료: 'x' + Enter)");
+            Console.WriteLine("커밋 테스트");
 
             while(true)
             {
